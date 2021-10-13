@@ -1,3 +1,21 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .card {
+    @apply p-10;
+  }
+  .icon-holder {
+    @apply mb-10;
+  }
+  .card-title {
+    @apply text-light-gray text-4xl font-bold font-big-shoulder uppercase mb-10;
+  }
+  .description {
+    @apply text-sm font-lexend mb-10 text-transparent-white;
+  }
+  .btn {
+    @apply w-8/12 bg-light-gray font-lexend text-center py-3 rounded-3xl;
+  }
+}
