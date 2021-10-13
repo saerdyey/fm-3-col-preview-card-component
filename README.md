@@ -40,7 +40,7 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - Mobile-first workflow
-- [Tailwind](https://reactjs.org/) - CSS framework
+- [Tailwind](https://tailwindcss.com/) - CSS framework
 
 ### What I learned
 
